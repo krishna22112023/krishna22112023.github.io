@@ -19,7 +19,11 @@ social: true  # includes social icons at the bottom of the page
 Hi there! I am a senior AI researcher at the Artifical Intelligence Data Analytics and Strategic Technolgy Center ([AI.DA STC](https://www.stengg.com/en/digital-tech/data-science-analytics-and-ai)) at ST Engineering, Singapore 
 
 **Research** \
-I am interested in research on sequential data (natural language processing and time-series). More specifically on Representation learning, sample-efficient deep learning and Information retrieval. More recently, I am exploring multi-agent LLMs, multi-modal representation learning and mechanistic interpretability.  
+My research focuses on:
+
+1. Hardware-Efficient AI/ML for Edge Computing: Neural architecture search (NAS), Knowledge distillation, quantization, Sparse neural networks and neuromorphic spike neural networks towards hardware-aware energy efficient computing
+2. Multi-Agent Large Language Models: Ongoing research on building multi-agent VLM frameworks for vision models
+3. Information Retrieval: RAG, Representation learning
 
 **Previously**\
 I have worked as a R&D Engineer in the wirebonding division at ASM Pacific Technology, Singapore on time-series representation learning and domain adaptation problems towards [AI of Things (AIoT)](https://semi.asmpt.com/en/news-center/market-insights/realising-the-smart-factory-vision-through-an-ai-of-things-aiot-approach/).
